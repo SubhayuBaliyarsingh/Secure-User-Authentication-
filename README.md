@@ -72,8 +72,8 @@ sequenceDiagram
 
 ### 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/your-username/Authentication-System.git
-cd Authentication-System
+git clone https://github.com/SubhayuBaliyarsingh/Secure-User-Authentication-.git
+cd Secure-User-Authentication-
 \`\`\`
 
 ### 2. Configure Environment Variables
